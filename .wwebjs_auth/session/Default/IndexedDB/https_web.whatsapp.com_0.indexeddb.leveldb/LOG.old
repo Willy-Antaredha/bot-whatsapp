@@ -1,0 +1,30 @@
+2024/09/04-11:13:33.214 2028 Reusing MANIFEST C:\willy\web\js\bot wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/04-11:13:33.215 2028 Recovering log #759
+2024/09/04-11:13:33.239 2028 Reusing old log C:\willy\web\js\bot wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000759.log 
+2024/09/04-11:13:35.187 307c Level-0 table #782: started
+2024/09/04-11:13:35.199 307c Level-0 table #782: 214584 bytes OK
+2024/09/04-11:13:35.201 307c Delete type=0 #759
+2024/09/04-11:13:35.202 307c Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at '\x00"\x00\x00\x05' @ 2475901 : 1
+2024/09/04-11:13:35.202 307c Compacting 1@0 + 0@1 files
+2024/09/04-11:13:35.215 307c Generated table #783@0: 4385 keys, 89706 bytes
+2024/09/04-11:13:35.220 307c Generated table #784@0: 181 keys, 15958 bytes
+2024/09/04-11:13:35.220 307c Compacted 1@0 + 0@1 files => 105664 bytes
+2024/09/04-11:13:35.220 307c compacted to: files[ 0 2 20 0 0 0 0 ]
+2024/09/04-11:13:35.221 307c Delete type=2 #782
+2024/09/04-11:13:35.221 307c Manual compaction at level-0 from '\x00"\x00\x00\x05' @ 2475901 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/04-11:13:37.161 3500 Compacting 1@1 + 1@2 files
+2024/09/04-11:13:37.252 3500 Generated table #785@1: 49536 keys, 2217678 bytes
+2024/09/04-11:13:37.257 3500 Generated table #786@1: 17 keys, 15716 bytes
+2024/09/04-11:13:37.257 3500 Compacted 1@1 + 1@2 files => 2233394 bytes
+2024/09/04-11:13:37.258 3500 compacted to: files[ 0 1 21 0 0 0 0 ]
+2024/09/04-11:13:37.259 3500 Delete type=2 #763
+2024/09/04-11:13:37.259 3500 Delete type=2 #783
+2024/09/04-11:13:39.456 307c Compacting 1@1 + 6@2 files
+2024/09/04-11:13:39.535 307c Generated table #787@1: 23114 keys, 2208904 bytes
+2024/09/04-11:13:39.590 307c Generated table #788@1: 12138 keys, 2136627 bytes
+2024/09/04-11:13:39.720 307c Generated table #789@1: 98305 keys, 2246740 bytes
+2024/09/04-11:13:39.865 307c Generated table #790@1: 101571 keys, 2252738 bytes
+2024/09/04-11:13:40.013 307c Generated table #791@1: 101038 keys, 2250352 bytes
+2024/09/04-11:13:40.115 307c Generated table #792@1: 79594 keys, 1768884 bytes
+2024/09/04-11:13:40.115 307c Compacted 1@1 + 6@2 files => 12864245 bytes
+2024/09/04-11:13:40.116 307c compacted to: files[ 0 0 21 0 0 0 0 ]
